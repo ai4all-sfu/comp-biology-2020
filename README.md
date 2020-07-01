@@ -10,6 +10,9 @@
 * Methods: Data Pre-processing, Factor Models, and Classification.
 
 References:
+
 Heiser, Katie, et al. "Identification of potential treatments for COVID-19 through artificial intelligence-enabled phenomic analysis of human cells infected with SARS-CoV-2." bioRxiv (2020) ([link](https://www.biorxiv.org/content/10.1101/2020.04.21.054387v1.full.pdf)).
+
 RxRx19: The First Morphological Imaging Dataset on SARS-CoV-2 Virus ([link](https://www.rxrx.ai/rxrx19))
+
 RxRx19a COVID-19 Image Embeddings ([link](https://www.kaggle.com/tunguz/rxrx19a))
