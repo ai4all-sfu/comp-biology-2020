@@ -16,7 +16,7 @@ The directory 'notebooks' contain the code and exercises for each day of week 2.
 
 Day 1: Introduction to the dataset, hands-on experience with manipulating the metadata and deep learning embeddings of the cell images in RxRx19, feature extraction from images using basic Computer Vision techniques.
 
-Day 2: 
+Day 2: Dimensionality reduction techniques are used in the embeddings data. The goal is find a representation of the data in a lower dimention. The factor models explored were Principal Component Analysis, Matrix Factorization and Autoencoders. 
 
 Day 3: The feature set derived from Day 2 is used to train classification models, namely Logistic Regression, KNN Classifier, and Random Forest Classifier. This is followed by an introduction to a simple Convolutional Neural Network, which is trained using the feature embeddings and labels as well to predict if the cell image belongs to 'active' or 'inactive' class. Finally, a detailed comparison between all the four methods are made.
 
