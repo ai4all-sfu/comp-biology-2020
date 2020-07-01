@@ -5,7 +5,7 @@
 
 [One slide Description](https://docs.google.com/presentation/d/1rDsnvqHS2EoZfHlRDT-YqbMqoBwtCkxAJzzJ2WwDxxg/edit?usp=sharing)
  
-#### Dataset 
+### Dataset 
 
 Name: RxRx19
 
@@ -22,7 +22,7 @@ Day 3: The feature set derived from Day 2 is used to train classification models
 
 Day 4: Doubt sessions regarding concepts and exercises worked on during the previous days, and preparation for the presentation on Day 5. 
 
-#### References:
+### References:
 
 Heiser, Katie, et al. "Identification of potential treatments for COVID-19 through artificial intelligence-enabled phenomic analysis of human cells infected with SARS-CoV-2." bioRxiv (2020) ([link](https://www.biorxiv.org/content/10.1101/2020.04.21.054387v1.full.pdf)).
 
