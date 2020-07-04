@@ -1,3 +1,4 @@
 data/
-latent_featuresas/
+latent_features/
 .ipynb_checkpoints
+solutions.py
