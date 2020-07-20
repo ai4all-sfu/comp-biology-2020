@@ -1,4 +1,5 @@
 data/
 latent_features/
+notebooks_otherdays/
 .ipynb_checkpoints
 solutions.py
